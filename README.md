@@ -4,7 +4,7 @@ This project demonstrates the setup of an AWS environment, including a Virtual P
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://github.com/gitkailash/AWS-WordPress-Deployment-Cost-Effective-Web-Infrastructure/blob/main/WordPress.jpg)
+<img src="https://github.com/gitkailash/AWS-WordPress-Deployment-Cost-Effective-Web-Infrastructure/blob/main/WordPress.jpg" alt="Architecture Diagram" height="600"/>
 
 ---
 ## Project Overview
