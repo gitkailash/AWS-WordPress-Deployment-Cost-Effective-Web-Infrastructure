@@ -285,3 +285,8 @@ You might notice that we didn't include a NAT Gateway in this setup. Why, you as
 Instead, we're opting for a more *budget-friendly* approach by using Security Groups to restrict traffic. Only our trusty ALB is allowed to communicate with the EC2 instances. So, even without a NAT Gateway, your instances are safe and sound, shielded by the mighty Security Group that allows traffic *only* from the ALB. It’s almost like having a guard dog that only listens to one person—cost-effective and secure for practice!
 
 ---
+
+### Don’t Forget to Delete Everything After Testing
+Oh, and let’s not forget the golden rule of cloud cost management—make sure to delete all your AWS resources after testing. Unless, of course, you enjoy seeing unexpected charges on your bill 💸. After all, we all love a surprise, right? 🎉 Just remember, the cloud is not a free-for-all playground; every resource has a price tag, and your wallet will thank you for the clean-up! 🧹
+
+---
