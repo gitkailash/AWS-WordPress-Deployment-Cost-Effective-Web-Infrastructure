@@ -2,6 +2,10 @@
 
 This project demonstrates the setup of an AWS environment, including a Virtual Private Cloud (VPC), Internet Gateway(IGW), Security Groups(SG), Application Load Balancer (ALB), Auto Scaling Group (ASG), and EC2 instances running a WordPress application. The project follows best practices for network configuration, security, and scalability, ensuring a robust and highly available web infrastructure.
 
+## Architecture Diagram
+
+![Architecture Diagram](https://github.com/gitkailash/AWS-WordPress-Deployment-Cost-Effective-Web-Infrastructure/blob/main/WordPress.jpg)
+
 ---
 ## Project Overview
 
